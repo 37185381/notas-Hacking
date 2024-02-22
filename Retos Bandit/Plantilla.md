@@ -3,7 +3,7 @@
 
 ## Datos de acceso al nivel
 
-## Solucion
+## Solución
 
 ## Notas Adicionales
 
