@@ -3,6 +3,7 @@ There is a website running at `https://jupiter.challenges.picoctf.org/problem/5
 ## Pistas 
 The password is being filtered.
 ## Solución
+utilizamos SQL injetcion, concretamente el 
 ![[irish name repo 2.png]]
 ## Bandera
 picoCTF{m0R3_SQL_plz_c34df170}
